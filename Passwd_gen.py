@@ -7,7 +7,7 @@ Symbol = "!#&*()$@[]{}"
 
 all=lower + upper + NUMBER + Symbol
 
-print("Min 9 or higher recommended              ")
+print("Min 9 or higher recommended ")
 
 length = int(input("Type down the length:"))
 
